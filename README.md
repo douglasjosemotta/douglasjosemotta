@@ -1,7 +1,7 @@
 
    ##   Olá , eu sou Douglas Motta
-- 🔭 Me aperfeiçoando no desenvolvimento front-end .
-- 🌱Estudando  ReactJS .
-- 👯 Buscando saber mais a cada dia, pouco a pouco, logo chego lá !!!
+- 🔭 comprometido com desenvolvimento front-end.
+- 🌱Estudante Web Developer ECMAScrip .
+- 👯 Buscando conhecimento, desenvolvendo estratégias !!!
 - 🤔 contato leaderautomação@gmail.com
 
